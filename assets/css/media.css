@@ -1,0 +1,1998 @@
+/*************************************** max-width : 1440px **************************************/
+@media (max-width: 1440px) {
+}
+
+/*************************************** max-width : 1299px **************************************/
+@media (max-width: 1299px) {
+  .frame-content .section-large-title {
+    font-size: 74px;
+    line-height: 85px;
+  }
+
+  .frame {
+    height: 400px;
+  }
+
+  .directionPage .img-content {
+    height: 370px;
+  }
+
+  .support-content h2.section-large-title {
+    font-size: 80px;
+    line-height: 90px;
+  }
+
+  .school-event {
+    padding: 130px 136px 80px;
+  }
+
+  .action-directionPage .img-content {
+    height: 420px;
+  }
+
+  .datails h1 {
+    font-size: 60px;
+    line-height: 50px;
+  }
+
+  .policies-dataSection {
+    padding: 90px 154px 146px 154px;
+  }
+
+  .getInTouchSection-content {
+    padding: 225px 390px 155px 0;
+  }
+}
+
+/*************************************** max-width : 1199px **************************************/
+@media (max-width: 1199px) {
+  a {
+    font-size: var(--font-12);
+  }
+
+  .header-content ul li {
+    padding: 16px 8px;
+  }
+
+  .section-large-title {
+    font-size: 74px;
+  }
+
+  .page-header-content p.font-content-theme {
+    max-width: 558px;
+  }
+
+  .leadership-member-card .card-img {
+    height: 280px;
+  }
+
+  .frame-content .section-large-title {
+    font-size: 60px;
+    line-height: 66px;
+  }
+
+  .frame {
+    height: 360px;
+  }
+
+  .frame-img {
+    padding: 30px 24px 30px 0;
+  }
+
+  .content h3 {
+    font-size: 32px;
+    line-height: 30px;
+  }
+
+  .directionPage .img-content {
+    height: 290px;
+  }
+
+  .contect-data .nav a.font-content-theme {
+    line-height: 24px;
+  }
+
+  .links-data li a {
+    font-size: 10px;
+  }
+
+  .about .section-large-title span {
+    font-size: 44px;
+  }
+
+  .supportSection {
+    padding: 90px 0 90px 0;
+  }
+
+  .support-content h2.section-large-title {
+    font-size: 72px;
+    line-height: 82px;
+  }
+
+  .paragraph p:first-child {
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .ethos-aims {
+    justify-content: flex-start;
+    padding: 0 90px;
+  }
+
+  .ethos-support-content {
+    width: 66%;
+  }
+
+  .ethos-aims .icon-content h3 {
+    width: 230px;
+  }
+
+  .ethos-frame-content h2 {
+    line-height: 60px;
+    font-size: 64px;
+  }
+
+  .school-event {
+    padding: 130px 46px 80px;
+  }
+
+  .action-directionPage .img-content {
+    height: 360px;
+  }
+
+  .policies-dataSection {
+    padding: 90px 64px 146px 64px;
+  }
+
+  .priceCard {
+    padding: 55px 60px 57px 50px;
+  }
+
+  .priceCard .card-content {
+    padding-left: 40px;
+  }
+
+  .partnersSection .images {
+    padding: 0 130px;
+  }
+}
+
+/*************************************** max-width : 1024px **************************************/
+@media (max-width: 1024px) {
+  .section-large-title {
+    font-size: 68px;
+  }
+
+  .social-icon {
+    gap: 10px;
+  }
+
+  .social-icon a {
+    width: 40px;
+    height: 40px;
+  }
+
+  .bottom-footer-img {
+    justify-content: flex-start;
+  }
+
+  .benefitsSection-icon {
+    justify-content: flex-start;
+    padding: 0 90px;
+  }
+
+  .Work_headmistress {
+    padding: 116px 0;
+  }
+
+  .support-content h2.section-large-title {
+    font-size: 70px;
+    line-height: 80px;
+  }
+
+  .slider-img {
+    height: 670px;
+  }
+
+  .ethos-frame-content {
+    width: 60%;
+  }
+
+  .ethos-frame-content h2 {
+    line-height: 44px;
+    font-size: 45px;
+  }
+
+  .events-card .card-content {
+    width: 46%;
+  }
+
+  .action-hero-content h1.section-large-title {
+    font-size: 74px;
+  }
+
+  .action-directionPage .content h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .polices-hero-content h1.section-large-title {
+    font-size: 70px;
+  }
+
+  .policies-info-content .info {
+    padding-right: 45px;
+  }
+
+  .priceCard .card-header h2 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .getInTouchSection-content {
+    padding: 225px 320px 155px 0;
+  }
+
+  .activity-header h2 {
+    font-size: 48px;
+  }
+}
+
+/*************************************** max-width : 991px ***************************************/
+@media (max-width: 991px) {
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  ul li a:hover:after {
+    display: none;
+  }
+
+  .toggle-btn {
+    display: block;
+  }
+
+  .header-content .toggle-header-logo {
+    display: block;
+  }
+
+  .header-content {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    padding: 44px 150px;
+    height: 100vh;
+    transition: all 0.5s;
+    z-index: 10;
+    overflow-y: auto;
+  }
+
+  header.demo .header-content {
+    left: 0;
+    background-color: var(--white);
+  }
+
+  .header-content > div {
+    justify-content: space-between;
+  }
+
+  .header-content > ul {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 68px;
+  }
+
+  .header-content ul li {
+    padding: 16px 0;
+  }
+
+  .header-content ul li a {
+    font-size: 24px;
+    color: var(--black);
+    font-weight: 800;
+  }
+
+  .header-content .workForUsPage li > a {
+    color: black !important;
+  }
+
+  .header-content ul a.btn-theme {
+    margin-left: 0px;
+  }
+
+  .sub-menu-content {
+    position: relative;
+    top: 0;
+    display: block !important;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s;
+  }
+
+  .sub-menu-content.show-d-block {
+    max-height: 1000px;
+  }
+
+  .sub-menu a span {
+    font-size: 60px;
+    line-height: 0.4;
+    margin-left: 10px;
+    color: var(--black);
+    font-weight: 500;
+  }
+
+  .sub-menu-content ul li a {
+    font-weight: 400;
+  }
+
+  .sub-menu-content::before {
+    display: none;
+  }
+
+  .page-header-content p.font-content-theme {
+    font-size: 16px;
+  }
+
+  .member-content {
+    width: 100%;
+  }
+
+  h2.member-header-content1 {
+    max-width: 620px;
+    line-height: 40px;
+  }
+
+  .leadership-member-card .card-img {
+    height: 200px;
+  }
+
+  .leadership-member-card .member-name {
+    font-size: 24px;
+  }
+
+  .frame {
+    height: 280px;
+  }
+
+  .content h3 {
+    font-size: 24px;
+    line-height: 20px;
+  }
+
+  .frame-content .section-large-title {
+    font-size: 46px;
+    line-height: 56px;
+  }
+
+  .frame-img {
+    padding: 20px 20px 20px 0;
+  }
+
+  .directionPage .img-content {
+    height: 215px;
+  }
+
+  .top_footer {
+    padding: 60px 0 65px 0;
+  }
+
+  .top_footer .container {
+    max-width: none;
+  }
+
+  .about .section-large-title {
+    font-size: 78px;
+    line-height: 68px;
+    margin: 0;
+  }
+
+  .about .section-large-title span {
+    font-size: 34px;
+  }
+
+  .about p.font-content-theme {
+    font-size: var(--font-14);
+  }
+
+  .about form input {
+    padding: 16px 0 16px 18px;
+  }
+
+  form .icon a {
+    width: 38px;
+    height: 38px;
+    right: -19px;
+  }
+
+  form .icon a svg {
+    width: 25px;
+  }
+
+  .contect {
+    width: 36%;
+  }
+
+  .contect-data li a.font-content-theme {
+    font-size: var(--font-18);
+  }
+
+  .social-icon a {
+    font-size: var(--font-16);
+    width: 30px;
+    height: 30px;
+  }
+
+  .about .section-large-title {
+    margin-bottom: 14px;
+  }
+
+  .trustPage .content-set .section-large-title {
+    font-size: 55px;
+  }
+
+  .img-right-set {
+    height: 500px;
+  }
+
+  .font-content-theme {
+    font-size: 12px;
+  }
+
+  .benefitsSection-icon {
+    justify-content: flex-start;
+  }
+
+  .heroSection {
+    background-position: center right;
+  }
+
+  .hero-content {
+    width: 640px;
+  }
+
+  .hero-content p.truncate-line-clamp {
+    -webkit-line-clamp: 3;
+    font-size: 16px;
+  }
+
+  .support-content {
+    flex-direction: column;
+  }
+
+  .support-content h2.section-large-title {
+    width: 100%;
+  }
+
+  .support-content h2.section-large-title {
+    font-size: 80px;
+    line-height: 90px;
+    margin-bottom: 12px;
+  }
+
+  .support-content .paragraph {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .support-content .paragraph p {
+    font-size: 16px;
+  }
+
+  .Work_headmistress .container > div {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .headmistress-data {
+    margin: 0 0 66px 0;
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .headmistress-name {
+    transform: rotate(0deg);
+    writing-mode: lr-tb;
+    margin: 0 auto;
+    margin-top: 24px;
+  }
+
+  .headmistress-name h3 {
+    letter-spacing: 1.2px;
+  }
+
+  .headmistress-word {
+    width: 100%;
+  }
+
+  .workPage-frame .frame-img {
+    width: 55%;
+  }
+
+  .ethos-hero {
+    background-position: left top;
+  }
+
+  .benefitsSectionHeader .section-large-title {
+    font-size: 100px;
+    line-height: 125px;
+  }
+
+  .ethos-aims .icon-content p.font-content-theme {
+    font-size: 15px;
+  }
+
+  .ethos-support-content {
+    width: 100%;
+  }
+
+  .ethos-support-content p.font-content-theme {
+    font-size: 16px;
+  }
+
+  .campaignsHeader h2.section-large-title {
+    font-size: 114px;
+  }
+
+  .campaign-card .card-img {
+    height: 240px;
+  }
+
+  .card-content h2 {
+    font-size: 28px;
+  }
+
+  .action-hero-content {
+    width: 100%;
+    text-align: start;
+  }
+
+  .action-hero-content p.font-content-theme {
+    max-width: 690px;
+  }
+
+  .action-hero-content h1 {
+    line-height: 75px;
+  }
+
+  .action-hero-content h1 span {
+    display: block;
+  }
+
+  .school-event {
+    padding: 130px 44px 80px;
+  }
+
+  .events-card .card-img {
+    width: 40%;
+    height: 240px;
+  }
+
+  .events-card .card-content {
+    width: 50%;
+  }
+
+  .events-card .card-content h3 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .action-directionPage .img-content {
+    height: 280px;
+  }
+
+  .action-directionPage .content h3 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  .polices-hero-content {
+    overflow: hidden;
+  }
+
+  .hero-btn {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+
+  .policesPage-wrapper::before {
+    top: -70px;
+    height: 70px;
+  }
+
+  .policies-info-content .info p.font-content-theme {
+    font-size: 16px;
+  }
+
+  .policies-dataSection {
+    padding: 90px 28px 146px 28px;
+  }
+
+  .policies-header p.truncate-line-clamp {
+    font-size: 15px;
+  }
+
+  .priceCard {
+    padding: 55px 40px 57px 40px;
+  }
+
+  .priceCard .card-header {
+    flex-basis: 40%;
+  }
+
+  .priceCard .card-content {
+    padding-left: 20px;
+    flex-basis: 60%;
+  }
+
+  .getInTouchSection-content {
+    padding: 225px 140px 155px 0;
+  }
+
+  .partnersSection .images {
+    padding: 0;
+  }
+
+  .activity-links {
+    flex-basis: 25%;
+  }
+
+  .activity {
+    flex-basis: 75%;
+  }
+
+  .activity-header h2 {
+    font-size: 40px;
+    line-height: 46px;
+  }
+
+  .activity-header p {
+    font-size: 15px;
+  }
+
+  .activity-data p {
+    font-size: 15px;
+    margin-bottom: 45px;
+  }
+
+  .activity-data ul {
+    margin-bottom: 45px;
+  }
+
+  .activity-data ul li.font-content-theme {
+    font-size: 12px;
+  }
+
+  .activity-data ul li:nth-child(even) {
+    margin: 10px 0;
+  }
+}
+
+/*************************************** max-width : 767px ***************************************/
+@media (max-width: 767px) {
+  a.icon {
+    right: 10px;
+  }
+
+  .direction-column {
+    flex-direction: column;
+  }
+
+  .direction-column-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .section-large-title {
+    font-size: 60px;
+    line-height: 68px;
+  }
+
+  .frameSection {
+    padding: 0;
+  }
+
+  .frame {
+    height: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .frame-img {
+    padding: 0;
+    width: 100%;
+    position: relative;
+    height: 420px;
+  }
+
+  .frame-content {
+    padding: 35px 0 48px 0;
+  }
+
+  .frame-content .section-large-title {
+    font-size: 60px;
+    line-height: 70px;
+    margin-bottom: 16px;
+  }
+
+  .reDirectionSection {
+    padding: 30px 0 32px 0;
+  }
+
+  .directionPage {
+    height: 500px;
+  }
+
+  .directionPage .img-content {
+    height: 100%;
+  }
+
+  .directionPage .img-content img {
+    width: 100%;
+  }
+
+  .content h3 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .leadership-member-card {
+    width: 100%;
+  }
+
+  .leadership-member-card .card-img {
+    height: 414px;
+  }
+
+  .leadership-member-card .member-name {
+    font-size: 30px;
+  }
+
+  .leadership-mobile-none {
+    display: none;
+  }
+
+  .about {
+    margin-bottom: 48px;
+    width: 100%;
+  }
+
+  .about .section-large-title {
+    font-size: 98px;
+    line-height: 86px;
+  }
+
+  .about .section-large-title span {
+    font-size: 54px;
+  }
+
+  .about p.font-content-theme {
+    font-size: var(--font-20);
+    line-height: 26px;
+  }
+
+  .icon a {
+    right: 10px;
+    width: 44px;
+    height: 44px;
+  }
+
+  .about form a.icon img {
+    right: 10px;
+  }
+
+  form .icon a {
+    right: 10px;
+  }
+
+  .md-social {
+    display: block;
+    margin-top: 30px;
+  }
+
+  .contect {
+    margin-bottom: 48px;
+    width: 100%;
+  }
+
+  .contect-data li a.font-content-theme {
+    font-size: var(--font-20);
+  }
+
+  .contect-data .nav .direction > a {
+    line-height: 30px;
+    max-width: 390px;
+  }
+
+  .nav a:last-child {
+    font-size: var(--font-12);
+  }
+
+  .links {
+    width: 100%;
+  }
+
+  .links-data {
+    display: flex;
+    gap: 30px;
+  }
+
+  .links-data li {
+    padding: 0;
+  }
+
+  .links-data li a {
+    font-size: var(--font-10);
+  }
+
+  .xl-social {
+    display: none;
+  }
+
+  .social-icon a {
+    width: 48px;
+    height: 48px;
+    font-size: 26px;
+  }
+
+  .section-large-title {
+    font-size: 50px;
+    line-height: 58px;
+  }
+
+  .hero-content {
+    width: 500px;
+  }
+
+  .benefitsSectionHeader .section-large-title {
+    font-size: 90px;
+  }
+
+  .slider-img {
+    height: 375px;
+  }
+
+  .headmistress-word h2.truncate-line-clamp {
+    -webkit-line-clamp: 4;
+  }
+
+  .workPage-frameSection {
+    padding-top: 18px;
+  }
+
+  .workPage-frame .frame-img {
+    height: 276px;
+    width: 100%;
+  }
+
+  .ethos-support-content h2 {
+    font-size: 40px;
+  }
+
+  .campaignsSection {
+    padding: 116px 0 18px 0;
+  }
+
+  .campaignsHeader h2.section-large-title {
+    font-size: 84px;
+  }
+
+  .campaigns-content .campaign-card {
+    width: 100%;
+  }
+
+  .campaign-card .card-img {
+    height: 318px;
+  }
+
+  .campaigns-content {
+    margin-top: -55px;
+  }
+
+  .campaigns-content .card-content {
+    margin-top: 20px;
+  }
+
+  .card-content P.truncate-line-clamp {
+    margin-bottom: 16px;
+  }
+
+  .card-content h2 {
+    font-size: 34px;
+  }
+
+  .d-none-mobile {
+    display: none;
+  }
+
+  .order1-mobile {
+    order: 1;
+  }
+
+  .order2-mobile {
+    order: 2;
+  }
+
+  .order3-mobile {
+    order: 3;
+  }
+
+  .ethos-frameSection .container {
+    max-width: none;
+    padding: 0;
+  }
+
+  .ethosFrame {
+    flex-direction: column-reverse;
+    padding: 0;
+    text-align: center;
+  }
+
+  .ethos-frame-content {
+    width: 100%;
+    padding: 35px 0 48px 0;
+  }
+
+  .ethos-frame-content h2 {
+    line-height: 65px;
+    font-size: 65px;
+    margin-bottom: 16px;
+  }
+
+  .ethos-frame-img {
+    width: 100%;
+    height: 320px;
+  }
+
+  .action-hero-content h1.section-large-title {
+    font-size: 62px;
+    line-height: 65px;
+  }
+
+  .school-event {
+    padding: 56px 0 96px;
+  }
+
+  .events-card {
+    flex-direction: column;
+  }
+
+  .school-eventHeader h2 span {
+    display: block;
+  }
+
+  .events-card .card-img {
+    width: 100%;
+    height: 375px;
+  }
+
+  .events-card .card-content {
+    width: 100%;
+    padding: 38px 28px 0;
+  }
+
+  .events-card .card-content h3 {
+    font-size: 24px;
+  }
+
+  .events-card .card-content p.font-content-theme {
+    margin-top: 12px;
+  }
+
+  .school-event .divaider {
+    margin: 32px 28px 38px;
+  }
+
+  .school-event .divaider-2 {
+    margin: 44px 28px 33px;
+  }
+
+  .action-directionPage .content h3 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .action-reDirectionSection {
+    padding: 0;
+  }
+
+  .action-reDirectionSection .reDirectionPage {
+    gap: 12px;
+  }
+
+  .action-reDirectionSection .action-directionPage {
+    display: none;
+  }
+
+  .action-reDirectionSection .action-directionPage.d-none {
+    display: block;
+  }
+
+  .formSection > div {
+    flex-direction: column;
+  }
+
+  .datails {
+    padding: 0;
+  }
+
+  .datails h1 {
+    font-size: 70px;
+    line-height: 76px;
+    margin-bottom: 25px;
+  }
+
+  .formSection form {
+    width: 100%;
+  }
+
+  .contect-reDirectionSection .directionPage .img-content img.d-none {
+    display: block;
+  }
+
+  .contect-reDirectionSection .directionPage .img-content img.d-block {
+    display: none;
+  }
+
+  .policies-info-header h2.section-large-title {
+    line-height: 55px;
+  }
+
+  .policies-info-content .info {
+    padding-right: 0;
+    flex-basis: 100%;
+  }
+
+  .Policies .policy {
+    width: 100%;
+  }
+
+  .Policies .policy-3 {
+    margin-bottom: 18px;
+  }
+
+  .Policies .order-2 {
+    order: 3;
+  }
+
+  .Policies .order-3 {
+    order: 2;
+  }
+
+  .policies-header h2 {
+    width: 468px;
+  }
+
+  .vacancies-hero {
+    background-position: center;
+  }
+
+  .priceCard {
+    padding: 46px 35px 40px;
+    flex-direction: column;
+  }
+
+  .priceCard .card-content {
+    padding-left: 0;
+  }
+
+  .priceCard .card-content p.truncate-line-clamp {
+    margin-bottom: 10px;
+  }
+
+  .priceCard .card-header .priceCard-btn {
+    display: none;
+  }
+
+  .priceCard .card-content .priceCard-btn {
+    display: inline-block;
+  }
+
+  .vacancies-reDirectionSection {
+    padding: 25px 0;
+  }
+
+  .partnersSection {
+    padding-top: 65px;
+  }
+
+  .images .img-content {
+    margin-bottom: 50px;
+  }
+
+  .img-none-mobile {
+    display: none !important;
+  }
+
+  .images .img-content {
+    width: 50%;
+  }
+
+  .images .img-content .d-none {
+    display: block;
+  }
+
+  .partners-reDirectionSection .directionPage .content h3.d-none-mobile {
+    display: none;
+  }
+
+  .partners-reDirectionSection .directionPage .content h3.d-none {
+    display: block;
+  }
+
+  .activitySection {
+    padding: 168px 0 65px;
+  }
+
+  .activitySection .container {
+    max-width: none;
+    padding: 0;
+  }
+
+  .activity-links {
+    padding: 0 36px;
+  }
+
+  .activity-links .social-links {
+    display: none;
+  }
+
+  .activity-header {
+    padding: 0 36px;
+  }
+
+  .activity-header p.title {
+    margin: 36px 0 42px;
+    font-size: 12px;
+  }
+
+  .activity-header h2 {
+    font-size: 52px;
+    line-height: 54px;
+    margin-bottom: 22px;
+    max-width: 610px;
+  }
+
+  .activitySection .container > div {
+    flex-direction: column;
+  }
+
+  .activity-data {
+    padding: 0 36px;
+  }
+
+  .activity .img-content {
+    margin-bottom: 60px;
+    height: 336px;
+  }
+
+  .activity-data h3 {
+    margin-bottom: 16px;
+  }
+
+  .activity-data p {
+    margin-bottom: 0;
+  }
+
+  .activity-data .d-none {
+    display: block;
+  }
+
+  .whatWeDid-school-event .school-eventHeader {
+    text-align: center;
+  }
+
+  .whatWeDid-school-event {
+    padding: 85px 0 64px;
+  }
+
+  .whatWeDid-school-event .divaider-2 {
+    margin: 44px 28px 0;
+  }
+}
+
+/*************************************** max-width : 576px ***************************************/
+@media (max-width: 576px) {
+  .container {
+    padding: 0 28px;
+  }
+
+  .font-content-theme {
+    font-size: 14px;
+  }
+
+  .icon img {
+    padding: 10px 10px 10px 0;
+    width: 36px;
+  }
+
+  header {
+    padding: 68px 0 15px 0;
+  }
+
+  .headerScroll {
+    padding: 20px 0;
+  }
+
+  .header-content {
+    padding: 62px 26px 0px;
+  }
+
+  .header-content li {
+    padding: 14px 0;
+  }
+
+  .toggle-header-logo svg {
+    width: 200px;
+  }
+
+  .header-logo svg {
+    width: 200px;
+  }
+
+  .page-headerSection {
+    padding: 204px 0 60px 0;
+  }
+
+  .section-large-title {
+    font-size: 44px;
+    line-height: 52px;
+  }
+
+  .page-header-content p.font-content-theme {
+    max-width: 305px;
+    font-size: 16px;
+  }
+
+  .memberSection {
+    padding-bottom: 0;
+  }
+
+  .member-header {
+    margin-bottom: 16px;
+  }
+
+  .member-header h2 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+
+  .member-header-content h2 {
+    line-height: 40px;
+    max-width: 240px;
+  }
+
+  .governorPage {
+    margin-bottom: 85px;
+  }
+
+  .divaider {
+    display: none;
+  }
+
+  .member-header {
+    margin-bottom: 16px;
+  }
+
+  .member-header-content1 {
+    display: none;
+  }
+
+  .member-header-content2 {
+    display: block;
+    margin-bottom: 16px;
+  }
+
+  .leadership-member-card .card-img {
+    height: 290px;
+  }
+
+  .filterBtn {
+    margin-bottom: 32px;
+  }
+
+  .filterBtn .btn-theme {
+    letter-spacing: 2px;
+    font-size: 10px;
+    margin-right: 8px;
+    padding: 8px 18px;
+  }
+
+  .filterBtn-2 {
+    display: none;
+  }
+
+  .frame-content .section-large-title {
+    font-size: 40px;
+    line-height: 45px;
+  }
+
+  .frameSection .frame-img {
+    height: 276px;
+  }
+
+  .frameSection .frame-content {
+    width: 100%;
+    padding: 35px 0 48px 0;
+  }
+
+  .content h3 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  .reDirectionPage {
+    gap: 12px;
+  }
+
+  .content h3 {
+    margin-bottom: 12px;
+  }
+
+  .directionPage {
+    height: 344px;
+  }
+
+  .content .btn-theme {
+    padding: 22px 40px;
+    font-size: 14px;
+    color: var(--black);
+    background-color: var(--primary);
+  }
+
+  .content .btn-theme:before {
+    background-color: var(--secondary);
+  }
+
+  .content .btn-theme:hover {
+    color: var(--white);
+  }
+
+  .top_footer {
+    padding: 52px 0;
+  }
+
+  .about .section-large-title span {
+    font-size: 30px;
+  }
+
+  .about form input {
+    padding: 22px 0 20px 24px;
+  }
+
+  .about .section-large-title {
+    font-size: 54px;
+    line-height: 48px;
+    margin-bottom: 18px;
+  }
+
+  .about p.font-content-theme {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .contect-data .nav a {
+    line-height: 32px;
+  }
+
+  .bottom_footer {
+    padding: 32px 15px;
+  }
+
+  .support-content h2.section-large-title {
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .hero-content h1 {
+    font-size: 54px;
+    font-weight: 800;
+    margin-bottom: 10px;
+  }
+
+  .hero-content h1 span {
+    font-size: 44px;
+    display: block;
+    font-weight: 400;
+  }
+
+  .hero-content {
+    text-align: left;
+  }
+
+  .heroSection {
+    background-image: url("../images/hero/work-us-hero-mobile.png");
+    background-position: center top;
+  }
+
+  .heroSection:before {
+    background: linear-gradient(
+      #000000,
+      #00000000,
+      #000000,
+      #00000000,
+      #00000000
+    );
+  }
+
+  .hero-content {
+    text-align: left;
+    width: 100%;
+    padding: 286px 0 158px 0;
+  }
+
+  .hero-content p.truncate-line-clamp {
+    font-size: 15px;
+  }
+
+  .supportSection {
+    padding: 74px 0 78px 0;
+  }
+
+  .support-content h2.section-large-title {
+    margin-bottom: 10px;
+    padding-right: 0;
+  }
+
+  .paragraph p {
+    font-size: 16px;
+    margin-bottom: 0;
+    -webkit-line-clamp: 9;
+  }
+
+  .paragraph p:last-child {
+    display: none;
+  }
+
+  .benefitsSectionHeader .section-large-title {
+    font-size: 60px;
+    line-height: 68px;
+  }
+
+  .benefitsSection-icon {
+    margin-top: -28px;
+    padding: 0 46px;
+  }
+
+  .benefitsSection {
+    padding: 110px 0 82px 0;
+  }
+
+  .benefitsIcon .icon {
+    border: 0;
+  }
+
+  .slide_page button.slick-next {
+    right: 134px;
+  }
+
+  .slide_page button.slick-prev {
+    right: 192px;
+  }
+
+  .headmistress-img {
+    width: 94px;
+    height: 96px;
+  }
+
+  .headmistress-name h3 {
+    font-size: 10px;
+  }
+
+  .headmistress-word h2 {
+    margin-bottom: 12px;
+  }
+
+  .Work_headmistress {
+    padding: 95px 0;
+  }
+
+  .ethos-hero {
+    background-image: url("../images/hero/ethos-hero-mobile.png");
+  }
+
+  .ethos-hero .hero-content {
+    padding: 286px 0 90px 0;
+  }
+
+  .ethos-aimsSection {
+    padding: 82px 0 78px 0;
+  }
+
+  .ethos-aimsSection .benefitsSectionHeader .section-large-title {
+    font-size: 56px;
+    line-height: 56px;
+  }
+
+  .benefitsSection-icon.ethos-aims {
+    margin-top: 25px;
+  }
+
+  .ethos-aims .icon-content h3 {
+    margin: 0 auto 10px auto;
+  }
+
+  .ethos-aims .icon-content p {
+    font-size: 15px;
+    -webkit-line-clamp: 4;
+  }
+
+  .ethos-support-content {
+    padding-left: 0;
+  }
+
+  .ethos-support-content h2 {
+    font-size: 26px;
+    line-height: 25px;
+  }
+
+  .campaignsHeader h2.section-large-title {
+    font-size: 52px;
+  }
+
+  .campaigns-content {
+    margin-top: -60px;
+  }
+
+  .card-content h2 {
+    width: 260px;
+  }
+
+  .campaign-card.order2-mobile .btn-theme {
+    background-color: #8a8fc4;
+  }
+
+  .campaign-card.order3-mobile .btn-theme {
+    background-color: #65c09a;
+  }
+
+  .campaign-card.order3-mobile h2 {
+    width: 100%;
+  }
+
+  .ethos-frame-content h2 {
+    line-height: 45px;
+    font-size: 40px;
+  }
+
+  .action-hero {
+    background-image: url("../images/hero/action-hero-mobile.png");
+  }
+
+  .action-hero-content {
+    padding: 286px 0 138px 0;
+  }
+
+  .action-hero-content h1.section-large-title {
+    font-size: 54px;
+    line-height: 58px;
+  }
+
+  .action-hero-content h1 span {
+    font-size: 46px;
+  }
+
+  .school-event .divaider-1,
+  .divaider-2 {
+    display: block;
+  }
+
+  .events-card .card-title {
+    max-width: 300px;
+  }
+
+  .action-supportSection {
+    padding: 90px 0 78px 0 !important;
+  }
+
+  .action-supportSection .paragraph p:first-child {
+    margin-bottom: 0;
+    -webkit-line-clamp: 9;
+  }
+
+  .school-eventHeader h2 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .action-directionPage .content h3 {
+    font-size: 32px;
+    line-height: 44px;
+    margin-bottom: 8px;
+  }
+
+  .action-directionPage .content .btn-theme {
+    color: var(--white);
+    background-color: var(--black);
+    font-size: 14px;
+    padding: 22px 40px;
+  }
+
+  .action-directionPage .content .btn-theme:before {
+    background-color: var(--primary);
+  }
+
+  .action-directionPage .content .btn-theme:hover {
+    color: var(--black);
+  }
+
+  .datails .contect {
+    width: 300px;
+  }
+
+  .contect-datails .nav .direction a:first-child {
+    max-width: 210px;
+  }
+
+  .formSection form .inputData div.d-flex {
+    flex-direction: column;
+  }
+
+  .inputData div input:first-child {
+    margin-right: 0;
+  }
+
+  .inputData textarea {
+    height: 290px;
+    margin: 0;
+  }
+
+  .formSection form button.btn-theme {
+    display: none;
+  }
+
+  .contect-reDirectionSection {
+    padding: 84px 0 40px 0;
+  }
+
+  .policesPage-wrapper::before {
+    top: -12px;
+    height: 12px;
+    clip-path: polygon(0 12px, 100% 0, 100% 100%, 0% 100%);
+  }
+
+  .polices-hero {
+    background-image: url("../images/hero/polices-hero-mobile.png");
+  }
+
+  .polices-hero-content {
+    padding: 220px 0 88px 0;
+  }
+
+  .polices-hero-content h1.section-large-title {
+    font-size: 45px;
+    line-height: 50px;
+  }
+
+  .polices-hero-content h1 span {
+    font-weight: 800;
+  }
+
+  .policies-infoSection {
+    clip-path: none;
+    padding: 56px 0 70px 0;
+  }
+
+  .policies-info-header h2.section-large-title {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .policies-header h2 span:first-child {
+    font-weight: 400;
+  }
+
+  .policies-header h2 {
+    width: 100%;
+    font-size: 45px;
+  }
+
+  .policies-content:last-child .policies-header h2 {
+    font-size: 42px;
+  }
+
+  .policies-dataSection {
+    padding: 90px 28px 115px 28px;
+  }
+
+  .policy button {
+    right: 16px;
+  }
+
+  .policy .policy-name {
+    line-height: 20px;
+  }
+
+  .vacancies-hero {
+    background-image: url("../images/hero/vacancies-hero-mobile.png");
+    clip-path: none;
+  }
+
+  .vacancies-hero-content {
+    padding: 218px 0 334px 0;
+  }
+
+  .vacancies-hero-content h1 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+
+  .vacancies-hero-content h1 span {
+    font-weight: 800;
+  }
+
+  .vacancies-wrapper {
+    margin-top: -314px;
+  }
+
+  .getInTouchSection {
+    margin-top: -122px;
+  }
+
+  .getInTouchSection-content {
+    padding: 204px 0 145px 0;
+  }
+
+  .getInTouchSection-content p {
+    font-size: 44px;
+    line-height: 50px;
+    margin-bottom: 32px;
+  }
+
+  .vacancies-reDirectionPage .directionPage:nth-child(3) .content h3,
+  .vacancies-reDirectionPage .directionPage:nth-child(4) .content h3 {
+    font-size: 40px;
+    line-height: 55px;
+    margin-bottom: 12px;
+  }
+
+  .vacancies-reDirectionPage .action-directionPage .content .btn-theme {
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+  }
+
+  .partners-hero-content {
+    text-align: center;
+    padding: 208px 0 104px 0;
+  }
+
+  .partners-hero-content h1.section-large-title {
+    font-size: 60px;
+    line-height: 75px;
+  }
+
+  .partners-hero-content h1 span {
+    font-size: 60px;
+    font-weight: 800;
+  }
+
+  .section-wrapper::before {
+    top: -12px;
+    height: 12px;
+    clip-path: polygon(0 12px, 100% 0, 100% 100%, 0% 100%);
+  }
+
+  .partners-reDirectionSection {
+    padding-top: 52px;
+  }
+
+  .images .img-content:nth-child(odd) {
+    padding-right: 10px;
+  }
+
+  .images .img-content:nth-child(even) {
+    padding-left: 10px;
+  }
+
+  .activity-header h2 {
+    display: none;
+    max-width: 410px;
+  }
+
+  .activity-header h2.d-none {
+    display: block;
+  }
+
+  .activity-data h3 {
+    max-width: 240px;
+  }
+
+  .activity-data p {
+    -webkit-line-clamp: 12;
+  }
+
+  .policies-content:first-child .policies-header h2 {
+    font-size: 50px;
+  }
+
+  .ethos-frame-content .btn-theme {
+    padding: 24px 40px;
+  }
+
+  .contect {
+    margin-bottom: 52px;
+  }
+
+  .inputData input,
+  textarea {
+    margin-bottom: 8px;
+  }
+}
+
+/*************************************** max-width : 375px ***************************************/
+@media (max-width: 375px) {
+  .leadershipHeaderSection {
+    padding: 204px 0 44px 0;
+  }
+
+  .leadershipHeaderSection h1 {
+    margin-bottom: 8px;
+  }
+
+  .leadershipHeaderSection .page-header-content p.truncate-line-clamp {
+    -webkit-line-clamp: 3;
+  }
+
+  .leadershipMemberSection {
+    padding-bottom: 80px;
+  }
+
+  .leadership-member-card {
+    margin-bottom: 48px;
+  }
+
+  .leadership-member-card .card-img {
+    height: 270px;
+  }
+
+  .leadership-member-card .member-name {
+    font-size: 28px;
+  }
+
+  .links-data {
+    gap: 15px;
+  }
+
+  .supportSection {
+    padding: 110px 0 98px 0;
+  }
+
+  .ethos-support-content h2 {
+    font-size: 50px;
+    line-height: 55px;
+    margin-bottom: 22px;
+    width: 240px;
+  }
+}
+
+/*************************************** max-width : 320px ***************************************/
+@media (max-width: 320px) {
+  .frame-content .section-large-title {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .section-large-title {
+    font-size: 36px;
+  }
+
+  .filterBtn .btn-theme {
+    margin-right: 0;
+    padding: 8px 10px;
+  }
+
+  .content h3 {
+    font-size: 34px;
+  }
+
+  .leadership-member-card .card-img {
+    height: 210px;
+  }
+
+  .about p.font-content-theme {
+    font-size: 15px;
+  }
+
+  .contect-data li a.font-content-theme {
+    font-size: 16px;
+  }
+
+  .links-data li a.font-content-theme {
+    letter-spacing: 1px;
+  }
+
+  .hero-content {
+    text-align: left;
+  }
+
+  .hero-content p.truncate-line-clamp {
+    font-size: 15px;
+  }
+
+  .support-content h2.section-large-title {
+    font-size: 40px;
+    line-height: 45px;
+  }
+
+  .benefitsSection-icon {
+    padding: 0 20px;
+  }
+
+  .campaign-card .card-img {
+    height: 260px;
+  }
+
+  .campaignsHeader h2.section-large-title {
+    font-size: 45px;
+  }
+
+  .action-hero-content h1.section-large-title {
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .action-hero-content h1 span {
+    font-size: 40px;
+  }
+
+  .events-card .card-img {
+    height: 230px;
+  }
+
+  .events-card .card-content {
+    padding: 30px 28px 0;
+  }
+
+  .contect-datails li .img-content {
+    width: 45px;
+    height: 45px;
+    margin-right: 16px;
+  }
+
+  .contect-datails li a {
+    font-size: 18px;
+  }
+
+  .action-hero-content h1.section-large-title {
+    font-size: 38px;
+    line-height: 45px;
+  }
+
+  .policies-info-header h2.section-large-title {
+    font-size: 34px;
+    line-height: 40px;
+  }
+
+  .policies-header h2 {
+    width: 100%;
+    font-size: 38px;
+  }
+
+  .policies-content:last-child .policies-header h2 {
+    font-size: 36px;
+  }
+
+  .priceCard .card-header h2 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .partners-hero-content {
+    text-align: center;
+  }
+
+  .partners-hero-content h1.section-large-title {
+    font-size: 50px;
+    line-height: 65px;
+  }
+
+  .activity-header h2 {
+    font-size: 42px;
+    line-height: 45px;
+  }
+}
